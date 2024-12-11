@@ -1,5 +1,7 @@
 # My Re-Implementation of SEMamba Model
 
+## Foreword
+This is the unofficial implementation of the SEMAmba paper, used for Speech Denoising and Enhancement.
 
 ## Requirement
 Install needed dependencies, See `requirements.txt` for more details
